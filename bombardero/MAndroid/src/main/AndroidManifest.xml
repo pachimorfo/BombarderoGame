@@ -1,0 +1,10 @@
+<!--
+  ~ Carlos Sanchez Bouza
+  ~ Ángel Romero Pareja
+  ~
+  ~ Videojuegos en dispositivos moviles
+  ~
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ucm.gdv.panda.mandroid" />

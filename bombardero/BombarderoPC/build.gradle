@@ -1,0 +1,19 @@
+/*
+ * Carlos Sanchez Bouza
+ * Ángel Romero Pareja
+ *
+ * Videojuegos en dispositivos moviles
+ *
+ */
+
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':MEscritorio')
+    implementation project(':MLogica')
+    implementation project(':MInterfaz')
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"
